@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">WE2030</string>
+    <string name="select_country">اختر بلدك</string>
+    <string name="country_details">تفاصيل البلد</string>
+    <string name="timezone">المنطقة الزمنية: %1$s</string>
+    <string name="group">المجموعة: %1$s</string>
+    <string name="stage">المرحلة: %1$s</string>
+    <string name="matches">المباريات</string>
+    <string name="vs">ضد</string>
+    <string name="stadium">الملعب: %1$s</string>
+    <string name="security">الأمن</string>
+    <string name="police">الشرطة</string>
+    <string name="hospital">المستشفى</string>
+    <string name="embassy">السفارة</string>
+    <string name="call">اتصال</string>
+    <string name="email">إرسال بريد إلكتروني</string>
+    <string name="maps">الخريطة</string>
+    <string name="fanzones">مناطق المشجعين</string>
+</resources> 

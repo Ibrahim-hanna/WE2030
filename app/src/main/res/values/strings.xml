@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">WE2030</string>
+    <string name="nav_home">Accueil</string>
+    <string name="nav_matches">Matchs</string>
+    <string name="nav_maps">Carte</string>
+    <string name="nav_teams">Équipes</string>
+    <string name="nav_profile">Profil</string>
+    <string name="nav_alerts">Alertes</string>
+
+    <!-- Authentification -->
+    <string name="email">Email</string>
+    <string name="password">Mot de passe</string>
+    <string name="login">Se connecter</string>
+    <string name="register">S\'inscrire</string>
+
+    <!-- Sélection du pays -->
+    <string name="select_country">Sélectionnez votre pays</string>
+    <string name="morocco">Maroc</string>
+    <string name="france">France</string>
+    <string name="argentina">Argentine</string>
+    <string name="brazil">Brésil</string>
+    <string name="england">Angleterre</string>
+    <string name="country_details">Détails du Pays</string>
+    <string name="timezone">Fuseau horaire : %1$s</string>
+    <string name="group">Groupe : %1$s</string>
+    <string name="stage">Phase : %1$s</string>
+    <string name="vs">VS</string>
+    <string name="stadium">Stade : %1$s</string>
+    <string name="security">Sécurité</string>
+    <string name="police">Police</string>
+    <string name="hospital">Hôpital</string>
+    <string name="embassy">Ambassade</string>
+    <string name="call">Appeler</string>
+    <string name="maps">Carte</string>
+    <string name="fanzones">Fanzones</string>
+
+    <!-- Login Activity -->
+    <string name="login_title">Connexion</string>
+    <string name="login_subtitle">Bienvenue sur WE2030</string>
+    <string name="hint_email">Email</string>
+    <string name="hint_password">Mot de passe</string>
+    <string name="button_login">Se connecter</string>
+    <string name="text_no_account">Pas encore de compte ?</string>
+    <string name="text_register">S\'inscrire</string>
+    
+    <!-- Register Activity -->
+    <string name="register_title">Inscription</string>
+    <string name="register_subtitle">Créez votre compte WE2030</string>
+    <string name="hint_name">Nom complet</string>
+    <string name="hint_confirm_password">Confirmer le mot de passe</string>
+    <string name="button_register">S\'inscrire</string>
+    <string name="text_already_have_account">Déjà un compte ? Se connecter</string>
+    
+    <!-- Validation Messages -->
+    <string name="error_field_required">Ce champ est requis</string>
+    <string name="error_invalid_email">Email invalide</string>
+    <string name="error_invalid_password">Le mot de passe doit contenir au moins 6 caractères</string>
+    <string name="error_password_mismatch">Les mots de passe ne correspondent pas</string>
+    <string name="error_email_exists">Un compte avec cet email existe déjà</string>
+    <string name="error_invalid_credentials">Email ou mot de passe incorrect</string>
+    
+    <!-- Success Messages -->
+    <string name="success_registration">Inscription réussie !</string>
+    <string name="success_login">Connexion réussie !</string>
+</resources>

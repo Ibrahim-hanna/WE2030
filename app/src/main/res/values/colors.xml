@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- Couleurs de base Android -->
+    <color name="purple_200">#FFBB86FC</color>
+    <color name="purple_500">#FF6200EE</color>
+    <color name="purple_700">#FF3700B3</color>
+    <color name="teal_200">#FF03DAC5</color>
+    <color name="teal_700">#FF018786</color>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+
+    <!-- Couleur de l'icône -->
+    <color name="ic_launcher_background">#C1272D</color>
+
+    <!-- Couleurs principales -->
+    <color name="primary">#C1272D</color>          <!-- Rouge marocain -->
+    <color name="primary_dark">#A01F24</color>     <!-- Rouge foncé -->
+    <color name="primary_light">#FF4C52</color>    <!-- Rouge clair -->
+    <color name="accent">#006233</color>           <!-- Vert marocain -->
+    
+    <!-- Couleurs neutres -->
+    <color name="background">#FAFAFA</color>       <!-- Fond clair -->
+    <color name="surface">#FFFFFF</color>          <!-- Surface -->
+    <color name="text_primary">#212121</color>     <!-- Texte principal -->
+    <color name="text_secondary">#757575</color>   <!-- Texte secondaire -->
+    
+    <!-- Couleurs additionnelles -->
+    <color name="gold">#FFD700</color>             <!-- Or pour les accents -->
+    <color name="desert_sand">#F2E4D8</color>      <!-- Sable du désert -->
+    <color name="atlas_blue">#2A4B7C</color>       <!-- Bleu Atlas -->
+    
+    <!-- Couleurs système -->
+    <color name="success">#4CAF50</color>          <!-- Vert de succès -->
+    <color name="error">#F44336</color>            <!-- Rouge d'erreur -->
+    <color name="warning">#FFC107</color>          <!-- Jaune d'avertissement -->
+    <color name="info">#2196F3</color>             <!-- Bleu d'information -->
+
+    <!-- Couleurs pour la compatibilité -->
+    <color name="colorPrimary">#C1272D</color>
+    <color name="colorPrimaryDark">#8B1C22</color>
+    <color name="colorAccent">#FFC107</color>
+    <color name="gray">#757575</color>
+    <color name="lightGray">#EEEEEE</color>
+
+    <!-- Nouvelles couleurs pour le thème sombre -->
+    <color name="secondary">#FFC107</color>
+    <color name="secondary_dark">#FFA000</color>
+    <color name="dark_gray">#333333</color>
+    <color name="light_gray">#EEEEEE</color>
+</resources>

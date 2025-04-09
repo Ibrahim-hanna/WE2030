@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <item name="team1TextView" type="id"/>
+    <item name="team2TextView" type="id"/>
+    <item name="score1TextView" type="id"/>
+    <item name="score2TextView" type="id"/>
+    <item name="dateTextView" type="id"/>
+    <item name="timeTextView" type="id"/>
+    <item name="stadiumTextView" type="id"/>
+    <item name="stageTextView" type="id"/>
+    <item name="flag1ImageView" type="id"/>
+    <item name="flag2ImageView" type="id"/>
+    <item name="nav_home" type="id"/>
+    <item name="nav_matches" type="id"/>
+    <item name="nav_news" type="id"/>
+    <item name="nav_profile" type="id"/>
+    <item name="nav_teams" type="id"/>
+    <item name="nav_alerts" type="id"/>
+</resources> 

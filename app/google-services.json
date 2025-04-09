@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "573637534045",
+    "project_id": "we2030-a8549",
+    "storage_bucket": "we2030-a8549.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:573637534045:android:4399a123bd851ca14888b4",
+        "android_client_info": {
+          "package_name": "com.example.we2030"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC6hZieyIbf279zbmV1b4iL-18WzHKZRrQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

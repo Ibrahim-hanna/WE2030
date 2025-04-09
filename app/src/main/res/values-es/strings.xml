@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">WE2030</string>
+    <string name="select_country">Selecciona tu país</string>
+    <string name="country_details">Detalles del País</string>
+    <string name="timezone">Zona horaria: %1$s</string>
+    <string name="group">Grupo: %1$s</string>
+    <string name="stage">Fase: %1$s</string>
+    <string name="matches">Partidos</string>
+    <string name="vs">VS</string>
+    <string name="stadium">Estadio: %1$s</string>
+    <string name="security">Seguridad</string>
+    <string name="police">Policía</string>
+    <string name="hospital">Hospital</string>
+    <string name="embassy">Embajada</string>
+    <string name="call">Llamar</string>
+    <string name="email">Enviar correo</string>
+    <string name="maps">Mapa</string>
+    <string name="fanzones">Zonas de aficionados</string>
+</resources> 

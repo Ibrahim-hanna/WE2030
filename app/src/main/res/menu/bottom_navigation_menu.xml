@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:id="@+id/nav_home"
+        android:icon="@drawable/ic_home"
+        android:title="@string/nav_home" />
+
+    <item
+        android:id="@+id/nav_matches"
+        android:icon="@drawable/ic_matches"
+        android:title="@string/nav_matches" />
+
+    <item
+        android:id="@+id/nav_maps"
+        android:icon="@drawable/ic_maps"
+        android:title="@string/nav_maps" />
+
+    <item
+        android:id="@+id/nav_teams"
+        android:icon="@drawable/ic_teams"
+        android:title="@string/nav_teams" />
+
+    <item
+        android:id="@+id/nav_profile"
+        android:icon="@drawable/ic_profile"
+        android:title="@string/nav_profile" />
+
+    <item
+        android:id="@+id/nav_alerts"
+        android:icon="@drawable/ic_alerts"
+        android:title="@string/nav_alerts" />
+</menu> 
